@@ -1,5 +1,6 @@
 # Heroes
 
+* Nick Fury
 * Superman
 * Batman
 * Aquaman
